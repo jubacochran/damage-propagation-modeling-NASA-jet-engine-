@@ -1,0 +1,22 @@
+# Core Data Handling
+pandas
+numpy
+
+
+# Visualization Libraries
+seaborn
+matplotlib
+plotly
+
+# Machine Learning and Preprocessing (scikit-learn)
+scikit-learn
+
+# Statistical Functions
+scipy
+
+# Time Series and Statistical Modeling
+statsmodels
+
+# Display (for IPython, LaTeX, Math in Jupyter notebooks)
+ipython
+
